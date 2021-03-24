@@ -3,7 +3,7 @@ fun main(args: Array<String>){
     var experiencePoints = 5
     experiencePoints+=5
     var hasSteed = false
-    var tavernName = "ZaluppaKonya"
+    var tavernName = "Pivnaya"
     var coinsCount = 37
     println("Nugna konushna?")
     if(hasSteed) {
