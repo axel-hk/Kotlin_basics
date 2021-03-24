@@ -1,2 +1,2 @@
 # Kotlin_basics
-First step in kotlin
+First steps in kotlin
