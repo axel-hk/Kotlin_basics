@@ -3,7 +3,7 @@ import kotlin.math.pow
 import kotlin.reflect.typeOf
 
 /*fun main() {
-    println("Приветствую slayer, введи свой возраст: ")
+    println("Приветствую путник, введи свой возраст: ")
     var line: String;
     line = readLine().toString()
     var age: Int;
@@ -12,15 +12,15 @@ import kotlin.reflect.typeOf
             age = line.toInt()
 
             if (age > 18) {
-                println("Getta fuk out of here boomer")
+                println("Getta out of here boomer")
             } else {
-                println("WellCum to the cum zone")
+                println("Wellcome")
             }
             line = readLine().toString()
         }
         catch (e: Error)
         {
-            println("Ты чё дебил блять возраст введи,сука")
+            println("Русским языком написано: введи возраст")
         }
     }*/
 /*fun main() {
